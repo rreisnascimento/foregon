@@ -1,4 +1,13 @@
-#Utiliando
+<h4 align="center">
+  🚀 Semana OmniStack 11.0
+</h4>
+
+## :rocket: Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Node.js]
+
 express: 4.17.1
 body-parser: 1.19.0
 cors: 2.8.5
@@ -9,5 +18,6 @@ mongoose: 5.11.19
 morgan: 1.10.0
 apidoc: 0.26.0
 
-#Geração de documentação do ApiDoc
-apidoc -i ./documentation -o public/apidoc
+## 💻 Projeto
+
+O Projeto consiste em um cadastro básico de Proposta de Crédito.
