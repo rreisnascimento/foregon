@@ -6,7 +6,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Node.js
 
-Utilizando as seguintes bibliotecas:
+Utilizando as seguintes dependências:
 
 - express: 4.17.1
 - body-parser: 1.19.0
@@ -17,3 +17,4 @@ Utilizando as seguintes bibliotecas:
 - mongoose: 5.11.19
 - morgan: 1.10.0
 - apidoc: 0.26.0
+- validar-cpf: 2.1.2
